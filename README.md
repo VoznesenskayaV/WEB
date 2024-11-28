@@ -18,3 +18,21 @@
 - [CSS файл](task3.css)
 - [JavaScript файл](task3.js)
 
+# Лабораторная работа 5: Манипуляции с DOM
+## Задания
+
+### Задание 1
+- [HTML файл](lw5_task1.html)
+- [CSS файл](lw5_task1.css)
+- [JavaScript файл](lw5_task1.js)
+
+### Задание 2
+- [HTML файл](lw5_task2.html)
+- [CSS файл](lw5_task2.css)
+- [JavaScript файл](lw5_task2.js)
+
+### Задание 3
+- [HTML файл](lw5_task3.html)
+- [JavaScript файл](lw5_task3.js)
+- [CSS файл](lw5_task3.css)
+

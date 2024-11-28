@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .slider-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .slider-image {
+    width: 400px; 
+    height: 300px;
+    object-fit: cover;
+    transition: opacity 0.5s ease;
+  }
+  
+  .slider-btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .slider-btn:hover {
+    background-color: #45a049;
+  }
+  
